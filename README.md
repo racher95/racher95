@@ -40,3 +40,12 @@ Tools & skills: Git · GitHub · Web fundamentals · Continuous learning
 ---
 ### 📫 Connect with me
 [LinkedIn](https://linkedin.com/in/kevin-camara) | [Portfolio (soon)](#)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=racher95&show_icons=true&theme=github_dark&count_private=true" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=racher95&layout=compact&theme=github_dark" alt="Top languages" height="160"/>
+</p>
+
