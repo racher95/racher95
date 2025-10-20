@@ -1,16 +1,42 @@
-## Hi there 👋
+<!-- ✨ Epic README for Kevin (racher95) -->
 
-<!--
-**racher95/racher95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hi, I'm Kevin</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>Full Stack Web Developer in progress</strong> · Lifelong learner · Passionate about technology, design and digital innovation
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About me  
+I'm currently building my path as a **Full Stack Developer**, exploring how technology can transform ideas into meaningful digital experiences.  
+I believe that great software is not just about code — it’s about creating solutions that feel natural, perform efficiently, and inspire people to use them.
+
+> "Code is my way of designing logic into reality."
+
+---
+
+### ⚙️ What I’m focusing on
+- 🧩 Building modular, scalable web projects  
+- 🔄 Understanding the full workflow from design to deployment  
+- 💡 Improving every day through practice, reading and experimentation  
+- 🤝 Collaborating and sharing knowledge with other developers  
+
+---
+
+### 🌱 Currently learning
+- Core concepts of full stack development  
+- Front-end architecture, UI/UX thinking and responsive design  
+- API integration, data handling and best practices in teamwork  
+
+---
+
+### 🧰 My toolkit (growing fast)
+```text
+Work mindset: Clean code · Version control · Scalability · Curiosity
+Tools & skills: Git · GitHub · Web fundamentals · Continuous learning
+
+```
+---
+### 📫 Connect with me
+[LinkedIn](https://linkedin.com/in/kevin-camara) | [Portfolio (soon)](#)
